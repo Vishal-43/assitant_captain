@@ -17,15 +17,17 @@ Open Applications: Opens applications on your device.
 Installation
 Clone the repository:
 
-##bash
+##
+```bash
 git clone <repository_url> 
 
 Navigate to the project directory:
+##
+```bash
+cd <repository_name>
 
-##bash
-cd <repository_name>```
 Install the required dependencies:
-
+##
 ```bash
 pip install -r requirements.txt```
 
