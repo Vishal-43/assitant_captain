@@ -15,14 +15,14 @@ Wikipedia Search: Searches Wikipedia for information.
 Open Applications: Opens applications on your device.
 
 Installation
-> Clone the repository:
+Clone the repository:
 
-``` bash
-git clone <repository_url> ```
+##bash
+git clone <repository_url> 
 
 Navigate to the project directory:
 
-```bash
+##bash
 cd <repository_name>```
 Install the required dependencies:
 
@@ -31,7 +31,6 @@ pip install -r requirements.txt```
 
 Usage
 Run the voice assistant script:
-
 ```bash
 python voice_assistant.py```
 
