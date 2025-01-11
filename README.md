@@ -15,7 +15,7 @@ Wikipedia Search: Searches Wikipedia for information.
 Open Applications: Opens applications on your device.
 
 Installation
-Clone the repository:
+> Clone the repository:
 
 ``` bash
 git clone <repository_url> ```
