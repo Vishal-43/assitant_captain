@@ -23,8 +23,8 @@ Open Applications: Opens applications on your device.
 Installation
 Clone the repository:
 
-bash
-(git clone <repository_url>)
+'''bash
+git clone <repository_url>
 Navigate to the project directory:
 
 bash
