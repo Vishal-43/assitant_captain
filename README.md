@@ -18,23 +18,23 @@ Installation
 Clone the repository:
 
 ##
-```bash
+bash
 git clone <repository_url> 
 
 Navigate to the project directory:
 ##
-```bash
+bash
 cd <repository_name>
 
 Install the required dependencies:
 ##
-```bash
-pip install -r requirements.txt```
+bash
+pip install -r requirements.txt
 
 Usage
 Run the voice assistant script:
-```bash
-python voice_assistant.py```
+bash
+python voice_assistant.py
 
 Contributing
 Feel free to fork this repository and contribute by submitting pull requests. For major changes, please open an issue first to discuss what you would like to change.
