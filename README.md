@@ -24,7 +24,7 @@ Installation
 Clone the repository:
 
 '''bash
-git clone <repository_url>
+git clone <repository_url>'''
 Navigate to the project directory:
 
 bash
